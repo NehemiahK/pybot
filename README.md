@@ -3,7 +3,7 @@ A chatbot built by ITC. Chat functionality implemented by me.
 
 Dependencies: 
 
-bottle
+bottle,
 forecastio 
 
 Will need the relevant ITC files. JS, HTML, CSS, images.
